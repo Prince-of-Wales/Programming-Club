@@ -4,11 +4,11 @@ public class Medium {
   public static void main(String[] args) {
     int i = 0; 
     int sum = 0; 
-    while (sum < 200) { 
+    while (sum < 200) {
       sum += i; 
       i++; 
     }
-    System.out.println(i); 
+    System.out.println(i);
   }
 }
 
