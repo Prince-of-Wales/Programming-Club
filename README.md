@@ -9,3 +9,12 @@ We acknowledge the fact that many of you may have lots of programming experience
 We will be providing a list of competitions as well as sharing news regarding to the competitions that we encourage you to compete in, such as the Canadian Computing Competition. The club meetings would also prepare you for these competitions.   
 
 Club meetings will happen bi-weekly.
+
+
+|                     |                                             |
+|---------------------|---------------------------------------------|
+| Meeting 1           | Operators, if, else and else if statements. |
+| In between meetings | Learning how to use the scanner class.      |
+| Meeting 2           | For, for each, while and do-while loops.    |
+| Meeting 3           |                                             |
+| Meeting 4           |                                             |
