@@ -1,3 +1,5 @@
+// Given an integer input, check if the input is even or not.
+
 Class Easy {
   public static void main(String[] args) {
     int i = /*input*/; 
