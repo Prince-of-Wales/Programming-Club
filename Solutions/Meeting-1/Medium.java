@@ -1,6 +1,6 @@
 // Make an XOR code block.  Ex: https://bit.ly/3nNmLtI
 
-public class Hard {
+public class Medium {
   public static void main(String[] args) {
     boolean one = /*input*/;
     boolean two = /*input*/;
