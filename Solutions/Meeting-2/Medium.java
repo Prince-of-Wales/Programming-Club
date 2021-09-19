@@ -1,9 +1,11 @@
-// Using a “while” loop: Add numbers starting from 0 to “a number” such that the sum of all integers between the two are greater than 200. Print the number. 
+// Using a while loop, starting at a 0, keep adding a given integer i to the total sum until the total sum exceeds 200.
 
 public class Medium {
   public static void main(String[] args) {
-    int i = 0; 
+    Scanner sc = new Scanner (System.in);
+    int i = sc.nextInt();
     int sum = 0; 
+    
     while (sum < 200) {
       sum += i; 
       i++; 
@@ -12,5 +14,3 @@ public class Medium {
   }
 }
 
-
-// Answer: 21
