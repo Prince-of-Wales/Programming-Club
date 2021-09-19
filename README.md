@@ -11,7 +11,7 @@ We will be providing a list of competitions as well as sharing news regarding to
 Club meetings will happen bi-weekly.
 
 
-|                     |                                             |
+|  Meeting #  |           Meeting Topic                                  |
 |---------------------|---------------------------------------------|
 | Meeting 1           | Operators, if, else and else if statements. |
 | In between meetings | Learning how to use the scanner class.      |
