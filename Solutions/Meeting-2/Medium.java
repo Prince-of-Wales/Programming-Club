@@ -1,4 +1,5 @@
 // Using a while loop, starting at a 0, keep adding a given integer i to the total sum until the total sum exceeds 200.
+import java.util.Scanner;
 
 public class Medium {
   public static void main(String[] args) {
