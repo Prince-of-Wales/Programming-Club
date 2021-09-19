@@ -1,3 +1,5 @@
+// Make an XOR code block.  Ex: https://bit.ly/3nNmLtI
+
 Class Hard {
   public static void main(String[] args) {
     boolean one = /*input*/;
