@@ -14,7 +14,7 @@ Club meetings will happen bi-weekly.
 |  Meeting #  |           Meeting Topic                                  |
 |---------------------|---------------------------------------------|
 | Meeting 1           | Operators, if, else and else if statements. |
-| In between meetings | Learning how to use the scanner class.      |
+| In between meetings | Getting keyboard inputs using the Scanner class      |
 | Meeting 2           | For, while, do-while loops, and nested loops.    |
 | Meeting 3           |                                             |
 | Meeting 4           |                                             |
