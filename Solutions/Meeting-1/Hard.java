@@ -7,7 +7,9 @@ public class Hard {
     int fourSubject = /* input */;
     int fiveSubject = /* input */;
     int average = (oneSubject+twoSubject+threeSubject+fourSubject+fiveSubject)/5;
-    if (average >= 90) {
+    if (average == 100) {
+      System.out.println("A+");
+    } else if (average >= 90) {
       System.out.println("A");
     } else if (average >= 80) {
       System.out.println("B");
