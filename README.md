@@ -11,10 +11,16 @@ We will be providing a list of competitions as well as sharing news regarding to
 Club meetings will happen bi-weekly.
 
 
-|  Meeting #  |           Meeting Topic                                  |
-|---------------------|---------------------------------------------|
-| Meeting 1           | Operators, if, else and else if statements. |
-| In between meetings | Getting keyboard inputs using the Scanner class      |
-| Meeting 2           | For, while, do-while loops, and nested loops.    |
-| Meeting 3           |                                             |
-| Meeting 4           |                                             |
+| Meeting #           | Meeting Topic                                    | Dates |
+|---------------------|--------------------------------------------------|-------|
+| Meeting 1           | Operators, if else and else if statements.       | TBA   |
+| In between meetings | Getting keyboard inputs using the Scanner class. | TBA   |
+| Meeting 2           | For, while, do-while and nested loops.           | TBA   |
+| In between meetings |                                                  | TBA   |
+| Meeting 3           |                                                  | TBA   |
+| In between meetings |                                                  | TBA   |
+| Meeting 4           |                                                  | TBA   |
+| In between meetings |                                                  | TBA   |
+| Meeting 5           |                                                  | TBA   |
+| In between meetings |                                                  | TBA   |
+| Meeting 6           |                                                  | TBA   |
