@@ -1,5 +1,6 @@
 public class Hard {
   public static void main(String[] args) {
+    // input is between 0 - 100 both inclusive
     int oneSubject = /* input */;
     int twoSubject = /* input */;
     int threeSubject = /* input */;
