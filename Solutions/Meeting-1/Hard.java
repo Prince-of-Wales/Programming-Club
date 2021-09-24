@@ -1,11 +1,11 @@
 public class Hard {
   public static void main(String[] args) {
-    int 1Subject = /* input */;
-    int 2Subject = /* input */;
-    int 3Subject = /* input */;
-    int 4Subject = /* input */;
-    int 5Subject = /* input */;
-    int average = (1Subject+2Subject+3Subject+4Subject+5Subject)/5;
+    int oneSubject = /* input */;
+    int twoSubject = /* input */;
+    int threeSubject = /* input */;
+    int fourSubject = /* input */;
+    int fiveSubject = /* input */;
+    int average = (oneSubject+twoSubject+threeSubject+fourSubject+fiveSubject)/5;
     if (average >= 90) {
       System.out.println("A");
     } else if (average >= 80) {
