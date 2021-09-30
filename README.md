@@ -8,19 +8,19 @@ We acknowledge the fact that many of you may have lots of programming experience
 
 We will be providing a list of competitions as well as sharing news regarding to the competitions that we encourage you to compete in, such as the Canadian Computing Competition. The club meetings would also prepare you for these competitions.   
 
-Club meetings will happen bi-weekly.
+Club meetings will happen weekly.
 
 
 | Meeting #           | Meeting Topic                                    | Dates |
 |---------------------|--------------------------------------------------|-------|
-| Meeting 1           | Operators, if else and else if statements.       | TBA   |
-| In between meetings | Getting keyboard inputs using the Scanner class. | TBA   |
-| Meeting 2           | For, while, do-while and nested loops.           | TBA   |
-| In between meetings |                                                  | TBA   |
-| Meeting 3           |                                                  | TBA   |
-| In between meetings |                                                  | TBA   |
-| Meeting 4           |                                                  | TBA   |
-| In between meetings |                                                  | TBA   |
+| Meeting 1           | Introduction to club, setting up, print statements and initializing variables.       | TBA   |
+| Meeting 2 | Getting keyboard inputs using the Scanner class. | TBA   |
+| Meeting 3           | For, while, do-while and nested loops.           | TBA   |
+| Meeting 4 |                                                  | TBA   |
 | Meeting 5           |                                                  | TBA   |
-| In between meetings |                                                  | TBA   |
-| Meeting 6           |                                                  | TBA   |
+| Meeting 6 |                                                  | TBA   |
+| Meeting 7           |                                                  | TBA   |
+| Meeting 8 |                                                  | TBA   |
+| Meeting 9           |                                                  | TBA   |
+| Meeting 10 |                                                  | TBA   |
+| Meeting 11           |                                                  | TBA   |
