@@ -14,11 +14,11 @@ Club meetings will happen weekly.
 | Meeting #           | Meeting Topic                                    | Dates |
 |---------------------|--------------------------------------------------|-------|
 | Meeting 1           | Introduction to club, setting up, print statements and initializing variables.       | TBA   |
-| Meeting 2 | Getting keyboard inputs using the Scanner class. | TBA   |
+| Meeting 2 | Scanner class, operators, if, else and else if statements. | TBA   |
 | Meeting 3           | For, while, do-while and nested loops.           | TBA   |
-| Meeting 4 |                                                  | TBA   |
-| Meeting 5           |                                                  | TBA   |
-| Meeting 6 |                                                  | TBA   |
+| Meeting 4 | Methods.                                                 | TBA   |
+| Meeting 5           | In-club competition.                                                 | TBA   |
+| Meeting 6 | Classes.                                                 | TBA   |
 | Meeting 7           |                                                  | TBA   |
 | Meeting 8 |                                                  | TBA   |
 | Meeting 9           |                                                  | TBA   |
