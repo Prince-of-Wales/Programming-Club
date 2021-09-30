@@ -4,8 +4,8 @@
 public class Medium {
   public static void main(String[] args) {
     String firstName = "Bob";
-    String lastname = "Bracken";
+    String lastName = "Bracken";
     int age = 43;
-    System.out.println("Name: "+firstname+", "+lastName+" Age: "+age);
+    System.out.println("Name: "+firstName+", "+lastName+" Age: "+age);
   }
 }
