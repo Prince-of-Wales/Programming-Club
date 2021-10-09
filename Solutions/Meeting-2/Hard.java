@@ -1,11 +1,14 @@
+import java.util.Scanner;
+
 public class Hard {
   public static void main(String[] args) {
     // input is between 0 - 100 both inclusive
-    int oneSubject = /* input */;
-    int twoSubject = /* input */;
-    int threeSubject = /* input */;
-    int fourSubject = /* input */;
-    int fiveSubject = /* input */;
+    Scanner sc = new Scanner(System.in);
+    int oneSubject = sc.nextInt();
+    int twoSubject = sc.nextInt();
+    int threeSubject = sc.nextInt();
+    int fourSubject = sc.nextInt();
+    int fiveSubject = sc.nextInt();
     int average = (oneSubject+twoSubject+threeSubject+fourSubject+fiveSubject)/5;
     if (average == 100) {
       System.out.println("A+");
