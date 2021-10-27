@@ -1,3 +1,12 @@
+/*
+If average percentage >= 90%: Grade A 
+If average percentage >= 80%: Grade B 
+If average percentage >= 70%: Grade C 
+If average percentage >= 60%: Grade D 
+If average percentage >= 40%: Grade E 
+If average percentage < 40%: Grade F 
+*/
+
 import java.util.Scanner;
 
 public class Hard {
