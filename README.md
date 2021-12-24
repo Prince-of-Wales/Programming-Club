@@ -16,11 +16,11 @@ Club meetings will happen weekly.
 | Meeting 1           | Introduction to club, setting up, print statements and initializing variables.       | TBA   |
 | Meeting 2 | Scanner class, operators, if, else and else if statements. | TBA   |
 | Meeting 3           | For, while, do-while and nested loops.           | TBA   |
-| Meeting 4 | String, arrays, and math functions.                                                 | TBA   |
-| Meeting 5           | Methods.                                                 | TBA   |
-| Meeting 6 | In-Club Competition.                                                 | TBA   |
-| Meeting 7         |Classes.                                                  | TBA   |
-| Meeting 8 |                                                  | TBA   |
+| Meeting 4 | Arrays                                                 | TBA   |
+| Meeting 5           | String and Math Functions                                              | TBA   |
+| Meeting 6 | Methods                                             | TBA   |
+| Meeting 7         |In-club Competition                                             | TBA   |
+| Meeting 8 |           Classes                                       | TBA   |
 | Meeting 9           |                                                  | TBA   |
 | Meeting 10 |                                                  | TBA   |
 | Meeting 11           |                                                  | TBA   |
