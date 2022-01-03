@@ -1,4 +1,5 @@
 //https://dmoj.ca/problem/ccc18s2
+import java.util.Scanner;
 
 public class Hard1 {
 	
