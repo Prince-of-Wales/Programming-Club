@@ -1,4 +1,4 @@
-// Given a set of numbers, using an array and for-loop, find the sum of all the numbers.
+// Given a set of numbers, using an array and for-loop, find the sum of all the numbers. Set of numbers: 1,72,43,4,5,26,7,8,19,10
 
 public class Easy2 {
   public static void main(String[] args) {
