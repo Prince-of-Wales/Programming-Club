@@ -1,3 +1,5 @@
+// loop through all odd numbers and remove any multiples. The resulting array will only contain "false" where there are prime numbers
+
 import java.util.Scanner;
 
 public class CountPrimes {
